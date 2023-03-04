@@ -1,9 +1,9 @@
-# html-freebie-triple-p
-Website Template Name: Triple P (Pixel Perfect Portfolio)
+# Front-End
+Website Name: dhiaportfolio
 
-Description: Pixel Perfect Portfolio is a modern and elegant One-Page HTML template. The template is built using technologies such as Bootstrap 3+, jQuery, SASS, Gulp &amp; Bower. It's perfectly suitable for freelancers, designers &amp; all kind of artists who want to show off their work.  
+Description: dhia portfolio is a modern and elegant One-Page HTML template. The template is built using technologies such as Bootstrap 3+, jQuery, SASS, Gulp &amp; Bower. It's perfectly suitable to describe my carrear with work examples
 
 Version: 1
-Author: Pixel Perfect Team
-Author URI: http://pixelperfect.mk/
+Author: Dhia nasri
+Author URI: https://dhiaportfolio.netlify.app/
 Keywords: HTML, CSS, Bootstrap, Responsive, Javascript, jQuery, Parallax, Portfolio, CV, Resume
